@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         { 
             email: 'bienestar@elyonyireh.edu.co', 
-            password: 'sietedeabril', 
+            password: 'sietedeabril2025', 
             description: 'Acceso a correo de Bienestar',
          
         },
